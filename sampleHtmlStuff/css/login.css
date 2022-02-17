@@ -1,0 +1,9 @@
+.boxmodel {
+  /*border: 5px solid rgba(160, 179, 221,0.3);*/
+  border: 5px solid red;
+  display: inline-block;
+  padding: 10px 20px ; /*  right  left */
+  margin: 0 5px;
+  width: 150px;
+  height: 60px;
+}

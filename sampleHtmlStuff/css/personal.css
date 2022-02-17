@@ -1,0 +1,41 @@
+
+*{
+  text-align: right;
+}
+body {
+  background-image: url("../img/water.jpg");
+ background-size: cover;
+}
+
+h2 {
+  color: #815b5b;
+}
+ p {
+  text-align: center;
+  border: 5px solid  rgba(160, 179, 221,0.3);
+  color: white;
+  cursor: pointer;
+  /*display: -moz-inline-box;*/
+
+}
+
+p{
+  line-height: 50px;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+img {
+float: right;
+}
+li, a{
+  list-style: none;
+  display: inline-block;
+  color: whitesmoke;
+}
+footer {
+  clear: both;
+  text-align: center;
+  color: #bbe3b7;
+}
